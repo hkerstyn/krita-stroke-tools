@@ -1,2 +1,2 @@
-# krita-dual-grid
-A C++ Krita plugin that makes creating seamless dual grids easy.
+# krita-stroke-tools
+A Krita plugin that makes creating seamless dual grids easy.
